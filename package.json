@@ -1,7 +1,7 @@
 {
   "name": "cosmic-j",
   "homepage": "https://ashtamibarman.github.io/cosmic2",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
